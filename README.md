@@ -7,7 +7,7 @@ This repository contains a reproducible WordPress Playground demo showing how Wi
 ## Steps to reproduce with Playground demo
 
 1. **Download** the demo ZIP from my repo:  
-   <https://raw.githubusercontent.com/Abdul-Hanif/windpress-bug/main/wordpress-playground-windpress-bug.zip>
+   <https://raw.githubusercontent.com/Abdul-Hanif/windpress-blocksy-bug/main/wordpress-playground-windpress-blocksy-bug.zip>
 2. Visit <https://playground.wordpress.net>.  
 3. Click ⋮ Menu → Import from .zip.
 4. Login as admin, My account → Username: "admin" | Password: "password"
